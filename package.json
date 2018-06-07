@@ -1,0 +1,23 @@
+{
+  "name": "query-improved",
+  "version": "1.0.0",
+  "description": "A helpful tool for interfacing with mysql package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoso7728/query-improved.git"
+  },
+  "keywords": [
+    "query",
+    "improved"
+  ],
+  "author": "Marques Robinson <spurs.1208@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zoso7728/query-improved/issues"
+  },
+  "homepage": "https://github.com/Zoso7728/query-improved#readme"
+}
